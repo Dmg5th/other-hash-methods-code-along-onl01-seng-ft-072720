@@ -10,5 +10,5 @@ def get_the_values(groceries)
   meat: ["chicken", "steak", "salmon"],
   grains: ["rice", "pasta"]
   }
-  groceries.values[0,1,2,3]
+  groceries.values[0[1]]
 end
